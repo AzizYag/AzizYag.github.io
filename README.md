@@ -45,7 +45,7 @@
 
     <hr style="border: 2px solid blue;">
 
-    <img src="document.gif" alt="gif" style="display: block; margin: 0 auto;">
+    <img src="email.gif" alt="gif" style="display: block; margin: 0 auto;">
 
     <a href="mailto:azizyagubov@icloud.com">E-MAIL: azizyagubov@icloud.com</a>
 
