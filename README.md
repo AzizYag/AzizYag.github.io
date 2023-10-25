@@ -1,16 +1,52 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>ВСЕ О КОМПЬЮТЕРЕ</title>
+    <style>
+        .container {
+            display: flex;
+        }
 
-<!--
-**AzizYag/AzizYag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+        .text {
+            flex: 1;
+            color: green;
+            font-size: 20px;
+        }
 
-Here are some ideas to get you started:
+        .image {
+            margin-left: 20px; /* Расстояние между текстом и изображением */
+        }
+    </style>
+</head>
+<body>
+    <h1 style="text-align: center;">ВСЕ О КОМПЬЮТЕРЕ</h1>
+    <hr style="border: 2px solid blue;">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <div class="container">
+        <div class="text">
+            <p style="margin: 0; padding: 0 ;">На этом сайте вы можете получить информацию о компьютере, его</p>
+            <p style="margin: 0; padding: 0;">программном обеспечении и ценах на компьютерные</p>
+            <p style="margin: 0; padding: 0;">комплектующие</p>
+
+            <p style="text-align: right; margin: 0; padding: 0">Терминологический словарь познакомит вас с компьютерными</p>
+            <p style="text-align: right; margin: 0; padding: 0">терминами.</p>
+        </div>
+        <div class="image">
+            <img src="Menu.jpeg" width="200" height="200">
+        </div>
+    </div>
+
+    <ul style="text-align: center; list-style: none; padding: 0;">
+        |<li style="display: inline; margin-left: 10px; margin-right: 10px;"><a href="Programm.html">ПРОГРАММЫ</a></li>|
+        <li style="display: inline; margin-left: 4px; margin-right: 10px;"><a href="Slovar.html">СЛОВАРЬ</a></li>|
+        <li style="display: inline; margin-left: 10px; margin-right: 10px;"><a href="compl.html">КОМПЛЕКТУЮЩИЕ</a></li>|
+    </ul>
+
+    <hr style="border: 2px solid blue;">
+
+    <a href="mailto:azizyagubov@icloud.com">E-MAIL: azizyagubov@icloud.com</a>
+
+
+</body>
+</html>
