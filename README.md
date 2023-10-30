@@ -47,8 +47,6 @@
     <hr style="border: 2px solid blue;">
 
     <div style="display: flex; align-items: center;">
-        <div class="image">
-            <video src="email.gif.mp4" width="200" height="200" controls></video>
         </div>
         <a href="mailto:azizyagubov@icloud.com">E-MAIL: azizyagubov@icloud.com</a>
     </div>
