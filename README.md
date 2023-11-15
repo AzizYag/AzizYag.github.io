@@ -21,7 +21,7 @@
 </head>
 <body>
     <h1 style="text-align: center;">ВСЕ О КОМПЬЮТЕРЕ</h1>
-    <hr style="border: 2px solid blue;">
+    <hr style="border:0.5px solid black;">
 
     <div class="container">
         <div class="text">
@@ -43,7 +43,7 @@
         <li style="display: inline; margin-left: 10px; margin-right: 10px;"><a href="compl.html">КОМПЛЕКТУЮЩИЕ</a></li>|
     </ul>
 
-    <hr style="border: 2px solid blue;">
+    <hr style="border:0.5px solid black;">
     <iframe src="https://giphy.com/embed/aOften89vRbG" width="80" height="80" frameBorder="2" class="giphy-embed" allowFullScreen></iframe><a href="https://giphy.com/gifs/deal-with-it-sunglasses-email-aOften89vRbG"></a>
 
     <a href="mailto:azizyagubov@icloud.com">E-MAIL: azizyagubov@icloud.com</a>
